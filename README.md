@@ -10,6 +10,8 @@ All information from the APIs are extracted through detailed queries and careful
 
 Technologies used: Next.js, MongoDB & Mongoose on Mongo Cloud Atlas, React Functional Components, Material-UI, Tailwind CSS for basic layout and animations, Google Maps, Foursquare Places API, News API, Contentful.
 
+What's new?
+
 Adding Contentful to this project really helped me understand the basics of Contentful, as well as how to combine it with Next.js
 
 I recommend Contentful to anyone reading this, and in need of a Headless CMS. It is very useful!
