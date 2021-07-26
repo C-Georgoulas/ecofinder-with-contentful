@@ -1,3 +1,5 @@
+As seen from my previous eco-finder repository:
+
 A project that was built with basic knowledge of Next.js due to learning it, as well as utilizing my existing MongoDB & Mongoose knowledge. 
 
 The way this works is that there's pre-existing "places" or "locations" that are drawn from the MongoDB Atlas Database and the Foursquare Places API. Their latittude and longtitudes are saved, as well as general information about those places and there are marker componenents rendered on Google Maps, pinpointing their exact location. Those markers are then clickable and you can see the category that the sustainable business is apart from.
@@ -6,4 +8,8 @@ Moving on, the News API was used to generate eco-friendly articles that are rend
 
 All information from the APIs are extracted through detailed queries and careful data manipulation from the responses.
 
-Technologies used: Next.js, MongoDB & Mongoose on Mongo Cloud Atlas, React Functional Components, Material-UI, Tailwind CSS for basic layout and animations, Google Maps, Foursquare Places API, News API.
+Technologies used: Next.js, MongoDB & Mongoose on Mongo Cloud Atlas, React Functional Components, Material-UI, Tailwind CSS for basic layout and animations, Google Maps, Foursquare Places API, News API, Contentful.
+
+Adding Contentful to this project really helped me understand the basics of Contentful, as well as how to combine it with Next.js
+
+I recommend Contentful to anyone reading this, and in need of a Headless CMS. It is very useful!
